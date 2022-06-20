@@ -35,7 +35,7 @@ const Sidebar = () => {
             <FontAwesomeIcon icon={faLinkedin}/>
         </a></li>
         <li><a
-            href="https://github.com/Asad-Leghari"
+            href="https://github.com/AbdAska"
             target="_blank"
             rel="noreferrer"
         >
